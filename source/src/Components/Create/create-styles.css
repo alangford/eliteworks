@@ -1,0 +1,19 @@
+.create{
+    background-color: #ebebeb;
+}
+.create-input{
+    margin: 0 1vw;
+}
+.create-image{
+    height: 20vh;
+}
+.create-button{
+    padding: 1vh 2vw;
+    background-color: #00bcff;
+    border: solid 1px #0092c8;
+}
+.create-button:hover{
+    background-color: #0088b7;
+    border: solid 1px #006587;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.top-nav{
+    background-color: #ababab;
+    height: 5vh;
+    padding: 2vh 2vw;
+}
+.top-nav-span{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.top-nav-link{
+    text-decoration: none;
+    color:black;
+    background-color: silver;
+    padding: 1vh 1vw;
+}
+.top-nav-link:hover{
+    background-color: #e2e2e2;
+}
